@@ -7,3 +7,4 @@ Helm chart for druid (https://github.com/druid-io) . This is inspired from work 
 5. `helm dep update` # run this only if you have uncommented the lines in requirements.yaml , else skip . This will bring zookeeper in charts folder.
 6. If you change anything , package the code using : `helm package druid`
 7. `helm install druid-0.1.0.tgz`
+# Druid
